@@ -1,8 +1,7 @@
 # README
-# Name: Aaqila Patel
+## Name: Aaqila Patel
 
 ## Article I found interesting (Vibe Coding): 
-
 
 ## A link to an article I find interesting
 [Vibe Coding is Reshaping Software Development](https://www.forbes.com/councils/forbesagencycouncil/2025/09/16/vibe-coding-is-reshaping-software-development-heres-what-to-know/)  
